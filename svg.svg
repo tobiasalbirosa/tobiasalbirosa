@@ -5,7 +5,12 @@
       font: 18px serif;
       height: 100;
       overflow: auto;
-      background-image:url('gif.gif');
+       position: absolute;
+    top: 50%;
+    left: 25%;
+    position: absolute;
+    color: aliceblue;
+    mix-blend-mode: exclusion;
     }
   </style>
 
