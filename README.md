@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css.css">
+<link rel="stylesheet" href="/css.css">
 <img margin=0 position="absolute" width="100%" height="100%" src="gif.gif"></img>
 <h1> Hi world </h1>
 <!--
