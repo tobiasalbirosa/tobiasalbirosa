@@ -5,7 +5,7 @@
       font: 18px serif;
       height: 100;
       overflow: auto;
-      background:url(gif.gif);
+      background-image:url('gif.gif');
     }
   </style>
 
