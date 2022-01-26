@@ -16,9 +16,6 @@
   <!-- Common use case: embed HTML text into SVG -->
   <foreignObject x="0" y="0" width="100%" height="100%">
     <!--
-      In the context of SVG embedded in an HTML document, the XHTML
-      namespace could be omitted, but it is mandatory in the
-      context of an SVG document
     -->
     <div xmlns="http://www.w3.org/1999/xhtml">
     </div>
