@@ -1,0 +1,7 @@
+h1{
+    top: 50%;
+    left: 25%;
+    position: absolute;
+    color: aliceblue;
+    mix-blend-mode: exclusion;
+}
