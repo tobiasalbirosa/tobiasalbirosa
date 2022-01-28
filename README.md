@@ -11,5 +11,5 @@
  <p> Python <img  style="left:0; width:10%;" src="py.png"></p>
  <p> PHP <img  style="left:0; width:10%;" src="php.png"> </p>
 <br>
-<h4 href="https://www.linkedin.com/in/tobiasalbirosa/"> Contact: <img href="https://www.linkedin.com/in/tobiasalbirosa/" style="position:absolute; left:0; width:5%;top:0; left:0;" src="linkedin-logo.png"></img>
-<h4>
+<a href="https://www.linkedin.com/in/tobiasalbirosa/"> Contact: <img href="https://www.linkedin.com/in/tobiasalbirosa/" style="position:absolute; left:0; width:5%;top:0; left:0;" src="linkedin-logo.png"></img>
+</a>
