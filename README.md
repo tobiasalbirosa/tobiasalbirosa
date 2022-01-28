@@ -12,4 +12,4 @@
  <p> PHP <img  style="left:0; width:10%;" src="php.png"> </p>
 <br>
 <h4> Contact: <h4>
-<img style="position:absolute; left:0; width:5%;top:0; left:0;" src="linkedin-logo.png"></img>
+<img href="https://www.linkedin.com/in/tobiasalbirosa/" style="position:absolute; left:0; width:5%;top:0; left:0;" src="linkedin-logo.png"></img>
