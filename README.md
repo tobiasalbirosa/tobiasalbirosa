@@ -1,4 +1,4 @@
-<h1> ⚡ Fullstack Developer 🧙‍♂️ White Hat ☁️ Cloud Architect 🏗<h1>
+<h1> ⚡ Fullstack Developer 🦅 White Hat ☁️ Cloud Architect 🏗<h1>
   <img  style="position:absolute; left:0; width:50%; height:50%; top:0; left:0;" src="g.gif"></img>
 <br>
   <h2>🐲 Skills:</h2> 
