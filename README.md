@@ -10,6 +10,13 @@
 
 ---
 
+### About
+
+Developing to improve, sharing to inspire.  
+Me enfoco en **plataformas web en producción**, **proyectos open source** y **experimentos con AI** y videojuegos web.
+
+---
+
 ### Production projects
 
 - **[albibi.online](https://albibi.online)** — Multi‑Service Platform  
@@ -25,7 +32,7 @@
 ### Open Source projects
 
 - **Registrator** — `Node.js`  
-  Herramienta/servicio open source construida sobre Node.js.
+  Herramienta / servicio open source construida sobre Node.js.
 
 - **Uroboros** — `Python`  
   Proyecto open source escrito en Python.
