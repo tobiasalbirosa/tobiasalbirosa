@@ -4,18 +4,10 @@
 
 **Full Stack Developer · Designer · AI Engineering**
 
-[LinkedIn](https://linkedin.com/in/tobiasalbirosa)
+[LinkedIn](https://linkedin.com/in/tobiasalbirosa)&nbsp;·&nbsp;
+**[Live portfolio](https://tobiasalbirosa.github.io/tobiasalbirosa/)**
 
 </div>
-
----
-
-### Live
-
-👉 **[Animated portfolio (GitHub Pages)](https://tobiasalbirosa.github.io/tobiasalbirosa/)**  
-Versión interactiva con animación del nombre, proyectos, videojuegos y certificaciones.
-
----
 
 ### About
 
