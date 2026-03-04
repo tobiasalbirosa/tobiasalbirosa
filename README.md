@@ -2,7 +2,7 @@
 
 ### Tobías Albirosa
 
-**Full Stack Developer · Open Source · AI**
+**Full Stack Developer · Designer · AI Engineering**
 
 [LinkedIn](https://linkedin.com/in/tobiasalbirosa)
 
