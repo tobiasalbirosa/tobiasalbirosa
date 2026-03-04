@@ -10,6 +10,13 @@
 
 ---
 
+### Live
+
+👉 **[Animated portfolio (GitHub Pages)](https://tobiasalbirosa.github.io/tobiasalbirosa/)**  
+Versión interactiva con animación del nombre, proyectos, videojuegos y certificaciones.
+
+---
+
 ### About
 
 Developing to improve, sharing to inspire.  
