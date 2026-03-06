@@ -5,7 +5,7 @@
 **Full Stack Developer · Designer · AI Engineering**
 
 [LinkedIn](https://linkedin.com/in/tobiasalbirosa)&nbsp;·&nbsp;
-**[Live portfolio](https://tobiasalbirosa.github.io/tobiasalbirosa/)**
+**[Live portfolio](https://tobiasalbirosa.github.io/)**
 
 </div>
 
