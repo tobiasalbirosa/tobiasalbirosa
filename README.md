@@ -12,18 +12,18 @@
 ### About
 
 Developing to improve, sharing to inspire.  
-Me enfoco en **plataformas web en producción**, **proyectos open source** y **experimentos con AI** y videojuegos web.
+I focus on **production web platforms**, **open source projects**, and **AI experiments** and web games.
 
 ---
 
 ### Production projects
 
 - **[albibi.online](https://albibi.online)** — Multi‑Service Platform  
-  Plataforma online multi‑servicio en producción.  
+  Multi‑service online platform in production.  
   **Stack**: `Full Stack`, `Web`
 
 - **[delivip.net](https://delivip.net)** — Take Away & Delivery  
-  Plataforma en producción para pedidos de comida y delivery.  
+  Production platform for food orders and delivery.  
   **Stack**: `Full Stack`, `E‑commerce`
 
 ---
@@ -31,24 +31,24 @@ Me enfoco en **plataformas web en producción**, **proyectos open source** y **e
 ### Open Source projects
 
 - **Registrator** — `Node.js`  
-  Herramienta / servicio open source construida sobre Node.js.
+  Open source tool / service built on Node.js.
 
 - **Uroboros** — `Python`  
-  Proyecto open source escrito en Python.
+  Open source project written in Python.
 
 ---
 
 ### Videogames
 
-Pequeños juegos web desplegados en producción:
+Small web games deployed in production:
 
-- **Miner** — juego tipo buscaminas/minería.  
+- **Miner** — minesweeper/mining style game.  
   ▶️ [`albibi.online/miner`](https://albibi.online/miner)
 
-- **Roulette** — juego de ruleta online.  
+- **Roulette** — online roulette game.  
   ▶️ [`albibi.online/roulette`](https://albibi.online/roulette)
 
-- **Shooter** — top‑down shooter web.  
+- **Shooter** — top‑down shooter web game.  
   ▶️ [`albibi.online/shooter`](https://albibi.online/shooter)
 
 ---
@@ -57,24 +57,24 @@ Pequeños juegos web desplegados en producción:
 
 #### Software Engineering
 
-- **Software Engineer Certificate** — HackerRank (`c54408f7a283`) · _mar 2026_
-- **JavaScript Algorithms and Data Structures** — freeCodeCamp (`iamcronos-jaads`) · _jun 2025_
-- **Checkout Pro** — Mercado Libre (`cert_d0e8c4fc…`) · _ene 2025_
+- **Software Engineer Certificate** — HackerRank (`c54408f7a283`) · _Mar 2026_
+- **JavaScript Algorithms and Data Structures** — freeCodeCamp (`iamcronos-jaads`) · _Jun 2025_
+- **Checkout Pro** — Mercado Libre (`cert_d0e8c4fc…`) · _Jan 2025_
 
 #### Artificial Intelligence
 
-- **Unleashing the Power of AI Agents** — IBM (`ALM-COURSE_3825456`) · _oct 2025_
-- **An Introduction to Generative AI and Content Creation** — IBM (`ALM-COURSE_3826560`) · _ene 2026_
-- **IBM and NASA: Powering AI for a Safer Planet** — IBM (`ALM-COURSE_4061528`) · _ene 2026_
-- **Vector Databases: An Introduction with Chroma DB** — IBM (`5AWBP1A4O3C7`) · _feb 2026_
+- **Unleashing the Power of AI Agents** — IBM (`ALM-COURSE_3825456`) · _Oct 2025_
+- **An Introduction to Generative AI and Content Creation** — IBM (`ALM-COURSE_3826560`) · _Jan 2026_
+- **IBM and NASA: Powering AI for a Safer Planet** — IBM (`ALM-COURSE_4061528`) · _Jan 2026_
+- **Vector Databases: An Introduction with Chroma DB** — IBM (`5AWBP1A4O3C7`) · _Feb 2026_
 
 #### Communication & Security
 
-- **Course 1: Communication Skills** — IBM (`ILB-EKRGXPZQVNYJ29BZ`) · _feb 2026_
-- **A2 English for Developers** — freeCodeCamp (`iamcronos-a2efd`) · _feb 2026_
-- **AR Introducción a Ciberseguridad — FTM Ed 7** — Fundación Telefónica (`387f7c16…`) · _abr 2025_
-- **Introducción a la Seguridad de la Información** — Fundación Telefónica (`69595112…`)
+- **Course 1: Communication Skills** — IBM (`ILB-EKRGXPZQVNYJ29BZ`) · _Feb 2026_
+- **A2 English for Developers** — freeCodeCamp (`iamcronos-a2efd`) · _Feb 2026_
+- **AR Introduction to Cybersecurity — FTM Ed 7** — Fundación Telefónica (`387f7c16…`) · _Apr 2025_
+- **Introduction to Information Security** — Fundación Telefónica (`69595112…`)
 
 ---
 
-> Este README resume la versión HTML (`README.html`) en un formato limpio y optimizado para cómo GitHub muestra los perfiles.
+>
