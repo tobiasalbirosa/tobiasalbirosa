@@ -12,7 +12,6 @@
 ### About
 
 Developing to improve, sharing to inspire.  
-I focus on **production web platforms**, **open source projects**, and **AI experiments** and web games.
 
 ---
 
